@@ -1,2 +1,4 @@
+face_recognition
+pillow
 opencv-python
-opencv-contrib-python
+numpy
